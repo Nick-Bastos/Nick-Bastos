@@ -1,9 +1,15 @@
-Olá! Nick aqui 👋🤟
+<h1>Olá! Nick aqui 👋🤟</h1>
 
 
+<h2 align="center">Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/nickson/">Nickson, seja bem vindo(a) ao meu perfil</a></h2>
+<p align="center">Atualmente estou cursando análise e desenvolvimento de sistemas, e tambem alguns cursos mais específicos, como quality assurance e Java e suas tecnologias na <a href="https://www.alura.com.br/">Alura, tambem aprendendo "um pouco" sobre HTML, CSS e JS.</p><br>
+  
+<p align="center">E sem dúvida, cada vez mais admirado com a tecnologia</p>
 
-- 🔭 Atualmente estudando Java ☕, e tambem "um pouco" de Javascript, HTML e CSS.
-- ⚡ Uma curiosidade: Migrando da área química para tecnologia.
+
+.
+- ⚡ Uma curiosidade?! Migrando da área química para tecnologia.
+    
 
 ##
 
