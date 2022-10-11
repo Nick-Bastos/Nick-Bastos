@@ -3,7 +3,7 @@
 
 <h2 align="center">Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/nickson/">Nickson</a></h2>
 <h3 align="center">Seja bem vindo(a) ao meu perfil</h3>
-<p align="center">Atualmente estou cursando análise e desenvolvimento de sistemas, e tambem alguns cursos mais específicos, como quality assurance e Java e suas tecnologias na <a href="https://www.alura.com.br/">Alura.</a> Também aprendendo "um pouco" sobre HTML, CSS e JS. E sem dúvida, cada vez mais admirado com a tecnologia.</p>
+<p align="center">Atualmente estou cursando análise e desenvolvimento de sistemas, e tambem alguns cursos mais específicos, como quality assurance, programação em Java e Javascript na <a href="https://www.alura.com.br/">Alura.</a> Também estudando HTML, CSS e frameworks.</p>
    
 
 - ⚡ Uma curiosidade?! Migrando da área química para tecnologia.
